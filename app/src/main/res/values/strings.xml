@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Money Spend Balance</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_list_transactions">List transactions</string>
+    <string name="button_list_month_statistics">Month statistics</string>
+    <string name="button_get_day_statistics">Day statistics</string>
+    <string name="button_refresh">Force refresh</string>
+    <string name="sms_screen_name">Here you sms from banks you chosen</string>
+</resources>
